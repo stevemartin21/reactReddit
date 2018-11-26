@@ -1,0 +1,15 @@
+{
+  "main.css": "/reactReddit/static/css/main.c0fd0bc7.chunk.css",
+  "main.js": "/reactReddit/static/js/main.75fd2f87.chunk.js",
+  "main.js.map": "/reactReddit/static/js/main.75fd2f87.chunk.js.map",
+  "static/css/1.09db9d2d.chunk.css": "/reactReddit/static/css/1.09db9d2d.chunk.css",
+  "static/js/1.752d3336.chunk.js": "/reactReddit/static/js/1.752d3336.chunk.js",
+  "static/js/1.752d3336.chunk.js.map": "/reactReddit/static/js/1.752d3336.chunk.js.map",
+  "runtime~main.js": "/reactReddit/static/js/runtime~main.8391c300.js",
+  "runtime~main.js.map": "/reactReddit/static/js/runtime~main.8391c300.js.map",
+  "static/css/main.c0fd0bc7.chunk.css.map": "/reactReddit/static/css/main.c0fd0bc7.chunk.css.map",
+  "static/css/1.09db9d2d.chunk.css.map": "/reactReddit/static/css/1.09db9d2d.chunk.css.map",
+  "index.html": "/reactReddit/index.html",
+  "precache-manifest.72dfde2d72e8822765773e6a6381df3e.js": "/reactReddit/precache-manifest.72dfde2d72e8822765773e6a6381df3e.js",
+  "service-worker.js": "/reactReddit/service-worker.js"
+}
